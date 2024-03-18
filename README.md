@@ -31,7 +31,7 @@ BMI has a positive correlation with Diabetes, and high cholesterol and high bloo
 ## Next steps
 I would like to further tune the models by leveraging hyperparameter tuning.
 Since the current dataset is imbalanced, I will continue to explore other balancing techniques, such as SMOTE and SMOTEENN, to resample it.
-I will continue to build models using the Artificial neural network (ANN) and compare their performance to that of supervised ML models.
+I will continue to build models using the Artificial Neural Network (ANN) and compare their performance to that of supervised ML models.
 
 ## Outline of project
 #### Link to notebook 1 - This notebook contains the exploratory data analysis.
