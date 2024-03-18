@@ -35,7 +35,7 @@ I will continue to build models using the Artificial Neural Network (ANN) and co
 
 ## Outline of project
 #### Link to notebook 1 - https://github.com/sreegurram/capstone-project/blob/main/src/Diabetes_MC_EDA.ipynb - This notebook contains the exploratory data analysis.
-#### Link to notebook 2 - Initial Predictions using simple ML models
+#### Link to notebook 2 - https://github.com/sreegurram/capstone-project/blob/main/src/Diabetes_multiclass_EDA-Models.ipynb - Initial Predictions using simple ML models
 #### Link to notebook 3 - Diabetes prediction Hyper parameter tuned ML Models and Diabetes prediction using ANN
 
 ## Contact and Further Information
