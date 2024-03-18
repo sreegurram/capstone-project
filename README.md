@@ -34,7 +34,7 @@ Since the current dataset is imbalanced, I will continue to explore other balanc
 I will continue to build models using the Artificial Neural Network (ANN) and compare their performance to that of supervised ML models.
 
 ## Outline of project
-#### Link to notebook 1 - This notebook contains the exploratory data analysis.
+#### Link to notebook 1 - https://github.com/sreegurram/capstone-project/blob/main/src/Diabetes_MC_EDA.ipynb - This notebook contains the exploratory data analysis.
 #### Link to notebook 2 - Initial Predictions using simple ML models
 #### Link to notebook 3 - Diabetes prediction Hyper parameter tuned ML Models and Diabetes prediction using ANN
 
